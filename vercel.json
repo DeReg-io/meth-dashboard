@@ -1,0 +1,12 @@
+{
+  "crons": [
+    {
+      "path": "/data/request",
+      "schedule": "0 1 * * *"
+    },
+    {
+      "path": "/data/fetch",
+      "schedule": "0 2 * * *"
+    }
+  ]
+}
